@@ -1,0 +1,26 @@
+Git bash
+pwd 현재 디렉토리
+ls  현재 디렉토리 파일목록
+  ls -a 숨김폴더까지 나옴 (이름앞.)
+  ls -l 디테일하게 목록
+cd () 체인지 디렉토리
+  cd .. 상위 디렉토리로
+  cd ~ 처음 디렉토리로
+tab 자동완성
+  tab tab 폴더안에 있는것
+mkdir () 폴더 만들기(make directory) *공백 ,한글 ㄴ
+touch () 파일 생성 명령어
+git init  프로젝트 폴더 생성
+git add 추적
+  git rm 추적해제
+  git status 추적현황
+  git commit 커밋 
+    git commit -m 주석
+  git log 수정 버전 로그
+    git log --oneline 간결하게 표현
+git diff 파일 수정전 파일과 다른점을 보여줌
+git checkout (버전id값) 과거에 커밋한것 복구
+git remote add origin https://github.com/Kangbcgit/IsecStudy_Gitbasic.git
+git push origin(별칭) master(브랜치) 업로드드
+
+git reset --hard 버전명 (마스터를 버전명으로 바꿈)
