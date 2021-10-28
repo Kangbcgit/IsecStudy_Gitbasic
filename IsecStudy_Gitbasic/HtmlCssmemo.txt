@@ -1,6 +1,9 @@
 CSS 태그
-background - 차지하는 영역의 배경색
-width 가로기이
-height 세로길이
-float 개체 정렬 
+background: 색깔; - 차지하는 영역의 배경색
+width: 길이px;가로길이
+height: 길이px;세로길이
+float: 방향(ex right, left); 개체 정렬 
 display 인라인, 블록 등 변경
+position
+right: 길이px; 화면 오른쪽에서 길이px만큼 띄워서 표현
+top: 길이px; 화면 위쪽에서 길이px만큼 띄워서 표현
