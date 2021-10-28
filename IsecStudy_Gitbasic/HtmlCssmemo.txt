@@ -1,0 +1,6 @@
+CSS 태그
+background - 차지하는 영역의 배경색
+width 가로기이
+height 세로길이
+float 개체 정렬 
+display 인라인, 블록 등 변경
