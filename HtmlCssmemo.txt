@@ -1,0 +1,16 @@
+CSS 태그
+background: 색깔; - 차지하는 영역의 배경색
+width: 길이px;가로길이
+height: 길이px;세로길이
+float: 방향(ex right, left); 개체 정렬 
+display 인라인, 블록 등 변경
+position
+right: 길이px; 화면 오른쪽에서 길이px만큼 띄워서 표현
+top: 길이px; 화면 위쪽에서 길이px만큼 띄워서 표현
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+HTML 태그
+
+Inline tag Block tag 분류 <https://calmdawnstudio.tistory.com/51>
+<a href="tel:+821029821968">내 전화번호</a> 전화앱연결
+<a href="mailto:thslrll@gmail.com">내 메일주소</a> 메일앱연결
